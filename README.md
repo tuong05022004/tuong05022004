@@ -21,11 +21,7 @@
 ## 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://www.facebook.com/sonhaoratladepzai/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
-  </a>
-  <a href="https://leetcode.com/u/haotrungtam2004/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
 </p>
 
